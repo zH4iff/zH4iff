@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zH4iff
+- 👀 I’m interested in Math, science fiction, machine learning 
+- 🌱 I’m currently learning c++
+- 💞️ I´m currently trying to improve my abilities in c++ so I can make little projects with arduino
+- 📫 How to reach me: haiffalasmir@gmail.com 
